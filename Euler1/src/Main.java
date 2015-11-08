@@ -9,6 +9,8 @@ public class Main {
 		Fibonnaci f = new Fibonnaci(10);
 		f.SumFib();
 		
+		System.out.println("Pierwsza wersja programu");
+		
 		
 
 
